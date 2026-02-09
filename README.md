@@ -1,10 +1,7 @@
 # AI Text Detection - Precog NLP Task
 
-<video controls width="720" src="Precog-NLP-task.mp4">
-  Your browser does not support the video tag.
-</video>
+**Video:** [Watch PPT Generated video on Google Docs for more context](https://docs.google.com/videos/d/19c5KOAHypOexQxc1jg7Q1JfHI2PzDw-vHF5GlLSo_m0/edit?usp=sharing)
 
-**Video:** Precog NLP task demo.
 
 ## Structure
 
