@@ -1,6 +1,6 @@
 # AI Text Detection - Precog NLP Task
 
-**Video:** [Watch PPT Generated video on Google Docs for more context](https://docs.google.com/videos/d/19c5KOAHypOexQxc1jg7Q1JfHI2PzDw-vHF5GlLSo_m0/edit?usp=sharing)
+**Video:** [Watch PPT Generated video for more context]([https://docs.google.com/videos/d/19c5KOAHypOexQxc1jg7Q1JfHI2PzDw-vHF5GlLSo_m0/edit?usp=sharing](https://iiithydresearch-my.sharepoint.com/:v:/g/personal/shuban_biswas_research_iiit_ac_in/IQBxgxTBdsvSTZDUNMMtvIGDAZbQA7CcjFX3fr4QkXLk6uk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1FL7U0))
 
 
 ## Structure
