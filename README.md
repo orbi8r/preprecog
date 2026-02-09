@@ -1,6 +1,10 @@
 # AI Text Detection - Precog NLP Task
 
-Full pipeline for detecting AI-generated philosophical essays. Corpus creation, 26 feature engineering, 6 detection models, interpretability via saliency mapping, and adversarial attacks (genetic algorithm + punctuation humanizer).
+<video controls width="720" src="Precog-NLP-task.mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Video:** Precog NLP task demo.
 
 ## Structure
 
@@ -85,26 +89,6 @@ Task 5 (clause assembler):
 
 100-200 word chunks, 6 topics: Ethics & Conduct, General Philosophy, Mind & Knowledge, Religion & Spirit, Society & Politics, Truth & Reality.
 
-## 26 Features
-
-Lexical (7): TTR, Hapax Legomena, MTLD, Yule's K, n_tokens, n_types, word_count
-Sentence (2): avg_sent_length, sent_len_std
-Syntactic (4): adj_noun_ratio, tree_depth, fk_grade, discourse_density
-Punctuation (11): semicolon, colon, exclamation, question, hyphen, emdash, asterisk, apostrophe, curly apostrophe, parenthesis, quote
-Stylometric (2): function_word_pca dim1, dim2
-
-## Results
-
-| Model | Approach | Test AUC |
-|-------|----------|---------|
-| Statistician | XGBoost 26 features | 0.9791 |
-| Semanticist | GloVe + NN | 0.9989 |
-| Transformer | DistilBERT + LoRA | 0.9983 |
-| Contrastive | Triplet loss | 0.9886 |
-| Variance | Sentence transitions | weak signal |
-| Structure | 2D heatmaps | 0.81 |
-
-Saliency mapping shows top AI-signals: "realm", "perennial", "ultimately", em-dashes, high-freq periods. Genetic Algorithm defeats Statistician (0.2% -> 99.2% Human) in 7 API calls targeting vocabulary repetition.
 
 ## Dependencies
 
