@@ -1,0 +1,264 @@
+{
+  "imposter_stats": {
+    "mean_prob": 0.987331211566925,
+    "median_prob": 0.9999772310256958,
+    "min_prob": 0.014000842347741127,
+    "max_prob": 0.9999983310699463,
+    "fooled_count": 7,
+    "total": 504
+  },
+  "human_stats": {
+    "mean_prob": 0.02084057591855526,
+    "misclassified_count": 5,
+    "total": 500
+  },
+  "standard_ai_stats": {
+    "mean_prob": 0.9999950528144836,
+    "missed_count": 0,
+    "total": 504
+  },
+  "top_ai_words": [
+    {
+      "word": "realm",
+      "mean_attr": 0.09605716913938522,
+      "count": 5,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "good",
+      "mean_attr": 0.08134766668081284,
+      "count": 11,
+      "pct_positive": 81.81818181818183
+    },
+    {
+      "word": "\u2013",
+      "mean_attr": 0.08064699918031693,
+      "count": 13,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "most",
+      "mean_attr": 0.07585758715867996,
+      "count": 28,
+      "pct_positive": 85.71428571428571
+    },
+    {
+      "word": ".",
+      "mean_attr": 0.07277058064937592,
+      "count": 582,
+      "pct_positive": 86.76975945017182
+    },
+    {
+      "word": "\u2014",
+      "mean_attr": 0.06301648169755936,
+      "count": 15,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "perennial",
+      "mean_attr": 0.0630125030875206,
+      "count": 5,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "not",
+      "mean_attr": 0.06013280525803566,
+      "count": 153,
+      "pct_positive": 88.88888888888889
+    },
+    {
+      "word": "chapter",
+      "mean_attr": 0.05954646319150925,
+      "count": 9,
+      "pct_positive": 88.88888888888889
+    },
+    {
+      "word": "more",
+      "mean_attr": 0.05791018530726433,
+      "count": 25,
+      "pct_positive": 84.0
+    },
+    {
+      "word": "i",
+      "mean_attr": 0.05557740107178688,
+      "count": 52,
+      "pct_positive": 86.53846153846155
+    },
+    {
+      "word": "intellectual",
+      "mean_attr": 0.05378090217709541,
+      "count": 7,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "\u2019",
+      "mean_attr": 0.05371296778321266,
+      "count": 14,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "ultimately",
+      "mean_attr": 0.053509604185819626,
+      "count": 5,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "merely",
+      "mean_attr": 0.0522833876311779,
+      "count": 24,
+      "pct_positive": 87.5
+    },
+    {
+      "word": "perception",
+      "mean_attr": 0.05203692242503166,
+      "count": 5,
+      "pct_positive": 80.0
+    },
+    {
+      "word": "perceive",
+      "mean_attr": 0.048703502863645554,
+      "count": 6,
+      "pct_positive": 100.0
+    },
+    {
+      "word": "tradition",
+      "mean_attr": 0.04847180098295212,
+      "count": 5,
+      "pct_positive": 80.0
+    },
+    {
+      "word": ",",
+      "mean_attr": 0.048273466527462006,
+      "count": 1444,
+      "pct_positive": 76.66204986149584
+    },
+    {
+      "word": "need",
+      "mean_attr": 0.04716962203383446,
+      "count": 5,
+      "pct_positive": 100.0
+    }
+  ],
+  "top_human_words": [
+    {
+      "word": "found",
+      "mean_attr": -0.06362362205982208,
+      "count": 7,
+      "pct_positive": 28.57142857142857
+    },
+    {
+      "word": "him",
+      "mean_attr": -0.05950678884983063,
+      "count": 6,
+      "pct_positive": 0.0
+    },
+    {
+      "word": "error",
+      "mean_attr": -0.05944443866610527,
+      "count": 7,
+      "pct_positive": 14.285714285714285
+    },
+    {
+      "word": "call",
+      "mean_attr": -0.05608852207660675,
+      "count": 6,
+      "pct_positive": 16.666666666666664
+    },
+    {
+      "word": "state",
+      "mean_attr": -0.05132198706269264,
+      "count": 6,
+      "pct_positive": 0.0
+    },
+    {
+      "word": "knowing",
+      "mean_attr": -0.043837495148181915,
+      "count": 8,
+      "pct_positive": 12.5
+    },
+    {
+      "word": "knows",
+      "mean_attr": -0.043111979961395264,
+      "count": 5,
+      "pct_positive": 20.0
+    },
+    {
+      "word": "account",
+      "mean_attr": -0.042219143360853195,
+      "count": 7,
+      "pct_positive": 14.285714285714285
+    },
+    {
+      "word": "himself",
+      "mean_attr": -0.041799984872341156,
+      "count": 5,
+      "pct_positive": 20.0
+    },
+    {
+      "word": "been",
+      "mean_attr": -0.04071453958749771,
+      "count": 11,
+      "pct_positive": 36.36363636363637
+    },
+    {
+      "word": "meaning",
+      "mean_attr": -0.04039255157113075,
+      "count": 6,
+      "pct_positive": 50.0
+    },
+    {
+      "word": "so",
+      "mean_attr": -0.040095530450344086,
+      "count": 19,
+      "pct_positive": 31.57894736842105
+    },
+    {
+      "word": "their",
+      "mean_attr": -0.04001452401280403,
+      "count": 31,
+      "pct_positive": 19.35483870967742
+    },
+    {
+      "word": "each",
+      "mean_attr": -0.03990800306200981,
+      "count": 9,
+      "pct_positive": 0.0
+    },
+    {
+      "word": "common",
+      "mean_attr": -0.03814741224050522,
+      "count": 11,
+      "pct_positive": 27.27272727272727
+    },
+    {
+      "word": "themselves",
+      "mean_attr": -0.0374080054461956,
+      "count": 12,
+      "pct_positive": 16.666666666666664
+    },
+    {
+      "word": "integrity",
+      "mean_attr": -0.03714381530880928,
+      "count": 5,
+      "pct_positive": 20.0
+    },
+    {
+      "word": "them",
+      "mean_attr": -0.03643833100795746,
+      "count": 17,
+      "pct_positive": 29.411764705882355
+    },
+    {
+      "word": "become",
+      "mean_attr": -0.03583666309714317,
+      "count": 7,
+      "pct_positive": 28.57142857142857
+    },
+    {
+      "word": "observe",
+      "mean_attr": -0.0350758321583271,
+      "count": 9,
+      "pct_positive": 22.22222222222222
+    }
+  ]
+}
