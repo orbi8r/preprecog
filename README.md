@@ -1,7 +1,7 @@
-# AI Text Detection - Precog NLP Task
+# Precog NLP Task
+_Le style peut donc être enlevé_ (the style, therefore, can be removed)
 
 **Video:** [Watch PPT Generated video for more context](https://iiithydresearch-my.sharepoint.com/:v:/g/personal/shuban_biswas_research_iiit_ac_in/IQBxgxTBdsvSTZDUNMMtvIGDAZbQA7CcjFX3fr4QkXLk6uk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1FL7U0)
-
 
 ## Structure
 
